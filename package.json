@@ -1,0 +1,12 @@
+{
+  "name": "serverless-test-api",
+  "version": "1.0.0",
+  "description": "Simple Node.js API to test a 3-minute response timeout on serverless dev",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
